@@ -1,0 +1,6 @@
+.classpath
+.git-together
+.mvn/
+.project
+.settings/
+target/
